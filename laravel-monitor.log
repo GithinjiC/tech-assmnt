@@ -1,0 +1,22 @@
+2025-01-06 14:25:04 - CPU Usage (89.33%) is above 80%. Restarting mysql
+2025-01-06 14:25:06 - mysql restarted
+2025-01-06 14:32:33 - CPU Usage line: CPU usage: 10.40% user, 12.79% sys, 76.80% idle 
+2025-01-06 14:32:33 - CPU idle percentage: 76.80
+2025-01-06 14:32:33 - CPU usage (2025-01-06 14:32:33 - CPU Usage line: CPU usage: 10.40% user, 12.79% sys, 76.80% idle 
+2025-01-06 14:32:33 - CPU idle percentage: 76.80
+23.20%) is within acceptable limits
+2025-01-06 14:33:27 - CPU Usage line: CPU usage: 9.34% user, 11.14% sys, 79.50% idle 
+2025-01-06 14:33:27 - CPU idle percentage: 79.50
+2025-01-06 14:33:27 - CPU usage (2025-01-06 14:33:27 - CPU Usage line: CPU usage: 9.34% user, 11.14% sys, 79.50% idle 
+2025-01-06 14:33:27 - CPU idle percentage: 79.50
+20.50%) is within acceptable limits
+2025-01-06 14:56:45 - CPU Usage line: CPU usage: 10.96% user, 11.99% sys, 77.4% idle 
+2025-01-06 14:56:45 - CPU idle percentage: 77.4
+2025-01-06 14:56:45 - CPU usage (2025-01-06 14:56:45 - CPU Usage line: CPU usage: 10.96% user, 11.99% sys, 77.4% idle 
+2025-01-06 14:56:45 - CPU idle percentage: 77.4
+22.6%) is within acceptable limits
+2025-01-06 14:57:50 - CPU Usage line: CPU usage: 18.93% user, 24.53% sys, 56.53% idle 
+2025-01-06 14:57:50 - CPU idle percentage: 56.53
+2025-01-06 14:57:50 - CPU usage (2025-01-06 14:57:50 - CPU Usage line: CPU usage: 18.93% user, 24.53% sys, 56.53% idle 
+2025-01-06 14:57:50 - CPU idle percentage: 56.53
+43.47%) is within acceptable limits
